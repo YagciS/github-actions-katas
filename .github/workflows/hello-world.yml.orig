@@ -1,4 +1,5 @@
-
+<<<<<<< HEAD
+```yaml
 name: hello-world
 on: push
 jobs:
@@ -7,3 +8,7 @@ jobs:
     steps:
       - name: my-step
         run: echo "Hello World!"
+```
+=======
+Hello-World
+>>>>>>> 2dc3059afec079a5b7b2c24e576aa198b33236c9
